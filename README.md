@@ -5,7 +5,7 @@
 ## Screenshot
 
 <p float="left">
-	<img src="screenshot\Screenshot.png" height="250" width="500" />
+	<img src="screenshot\Screenshot.png" height="300" width="500" />
 </p>
 
 # what is jchat ?
