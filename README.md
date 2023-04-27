@@ -10,7 +10,7 @@
 
 # what is jchat ?
 
-Jchat is a simple group chat app build in java.
+Jchat is a simple group chat app built on java.
 
 # Created By
 
